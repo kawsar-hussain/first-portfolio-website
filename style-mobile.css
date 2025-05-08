@@ -381,7 +381,6 @@ p{
 
 .fav-img{
 	margin: 15px; 
-	cursor: pointer; 
 }
 
 .fav-img img{
@@ -389,6 +388,7 @@ p{
 	height: auto;
 	display: block;
 }
+
 
 /* favourite end */
 
